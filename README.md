@@ -12,15 +12,16 @@ A RESTful API for handling fund transfers between accounts using Express.js.
 - [Data Models](#data-models)
 - [Error Handling](#error-handling)
 
-## Technology Stack
-
-- **Node.js**: JavaScript runtime environment.
-- **Express.js**: Web framework for Node.js.
 
 ## Features
 - **Transaction Processing**: Transfer funds between accounts with proper validation checks.
 
 - **Failsafe Operations**: Handles errors such as insufficient funds, invalid amounts, and non-existent accounts gracefully.
+
+## Technology Stack
+
+- **Node.js**: JavaScript runtime environment.
+- **Express.js**: Web framework for Node.js.
 
 ## Installation
 
